@@ -1,0 +1,14 @@
+# Credenciales y entornos
+.env
+
+# Directorios de sistema o IDEs
+.DS_Store
+.vscode/
+nbproject/
+.idea/
+
+# Dependencias o logs si aplica
+vendor/
+logs/
+*.log
+Identifier
